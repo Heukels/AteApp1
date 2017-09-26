@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>Public flight</title>      
+      <title>Public flight</title>
    </head>
    <body>
       
@@ -34,7 +34,7 @@
           echo "<td>". (string)$flight['scheduleDate'] ."</td>";
           echo "</tr>";
        }
-       echo "</table>";			
+       echo "</table>";
       }
       ?>
    </body>
